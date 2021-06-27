@@ -8,11 +8,8 @@ key = '9'
 ct = b''
 pt = b''
 
-for i in msg:
-	ct += xor(i,key)
-
-for i in ct:
-	pt += xor(i,key)
+ct = xor(msg,key)
+pt = xor(ct,key)
 
 
 print(ct.decode())
