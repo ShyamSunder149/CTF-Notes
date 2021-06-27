@@ -4,8 +4,6 @@ from pwn import xor
 
 msg = 'awesomepassword'
 
-ct = b''
-pt = b''
 
 for i in range(128):
 	print(xor(chr(i),msg))
