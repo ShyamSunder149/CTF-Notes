@@ -1,3 +1,3 @@
-# Crypto-notes
+# Crypto python scripts
 
-Notes for my understanding in crypto
+python scripts developed by me for various encryptions and decryption techniques
