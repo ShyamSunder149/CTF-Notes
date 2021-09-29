@@ -44,6 +44,7 @@ rockstar lang (songs)
 
 ## RSA - identification
 `ref:https://bitsdeep.com/posts/attacking-rsa-for-fun-and-ctf-points-part-1/` `full series`
+
 Basic
 ```
 n factorizable
@@ -91,6 +92,7 @@ factors p,p
 ## DES - types of attacks
 DES
 * ECB
+
 Triple DES
 * OFB
 
